@@ -83,7 +83,7 @@ Planned to be added incrementally as part-time development progresses.
 | RaspberyPi | [RPi 7" Touch Display V2][id3] | 720x1280 | DSI (2-lanes) | GT911 | :white_check_mark: Works |
 | Waveshare | [ESP32-P4-WIFI6-Touch-LCD-3.4C][id7] | 800x800 | DSI (2-lanes) | GT911 | :white_check_mark: Works |
 | Amelin | [7" 1024x600 LCD T D][id4] | 1024x600 | DSI (2-lanes) | GT911 | In progress |
-| Waveshare | [5_DSI_TOUCH_A][id8] | 720 x 1280 * | DSI (2-lanes) | GT911 | In Progress |
+| Waveshare | [5-DSI-TOUCH-A][id8] | 720 x 1280 * | DSI (2-lanes) | GT911 | In Progress |
 | SeeedStudio | TBD | — | DSI | — | Planned |
 
 > *Default Resolution. Display orientation can be changed in the firmware.
